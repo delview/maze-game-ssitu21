@@ -1,8 +1,8 @@
-/// @DnDAction : YoYo Games.Movement.Set_Direction_Random
+/// @DnDAction : YoYo Games.Movement.Set_Direction_Fixed
 /// @DnDVersion : 1.1
-/// @DnDHash : 1530B652
-/// @DnDArgument : "direction" "90,180,0,270"
-direction = choose(90,180,0,270);
+/// @DnDHash : 5B7FFF7A
+/// @DnDArgument : "direction" "180"
+direction = 180;
 
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
